@@ -1,0 +1,12 @@
+[15:35:21] Server Opened 
+[15:35:22] Beep has connected to the server. With IP: 127.0.0.1 At Port: 59348
+[15:35:24] Boop has connected to the server. With IP: 127.0.0.1 At Port: 59349
+[15:35:38] Beep: Hello!
+[15:35:43] Boop: Hello there!
+[15:36:08] <Beep ->Boop>: shhh this is secret
+[15:36:14] <Boop ->Beep>: ahh I see
+[15:36:22] Beep is now Meep
+[15:36:26] Meep: bye
+[15:36:30] Meep has left
+[15:36:34] Boop has left
+[15:37:11] Server Closed 

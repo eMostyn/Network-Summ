@@ -1,0 +1,4 @@
+/say
+/msg
+/info
+/list
